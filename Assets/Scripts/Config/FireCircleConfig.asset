@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f88f71b3bfa14ac428c26eacf79f4ce8, type: 3}
+  m_Name: FireCircleConfig
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: FireCircle
+  <Description>k__BackingField: FireCircle
+  <DisplayImage>k__BackingField: {fileID: 21300000, guid: 77bfa1a787419e146a67dc24724a7b69, type: 3}
+  <CooldownTime>k__BackingField: 10
+  <ManaCost>k__BackingField: 40
+  <HotKey>k__BackingField: 51
+  <Damage>k__BackingField: 20
+  <Radius>k__BackingField: 2
+  <Duration>k__BackingField: 10
+  <Interval>k__BackingField: 2
+  <CountPerWave>k__BackingField: 25
+  <epicentrPrefab>k__BackingField: {fileID: 6203716376514117228, guid: e875eda623a63e440b3d88b5848faa3f, type: 3}

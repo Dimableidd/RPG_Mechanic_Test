@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Ground
+  - Actors
+  - Enemy
+  - Points
+  - Points_far
+  - Pistol_GG
+  - Points_mage
+  - Points_healtg_mage
+  - CinemachineTarget
+  - Circle
+  - Health_Bar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GG
+  - Water
+  - UI
+  - Interactable
+  - Ground
+  - Actors
+  - NoShadows
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

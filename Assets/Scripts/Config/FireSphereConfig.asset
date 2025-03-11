@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e102c64f33bff97488c41884ca92cace, type: 3}
+  m_Name: FireSphereConfig
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: FireSphere
+  <Description>k__BackingField: FireSphere
+  <DisplayImage>k__BackingField: {fileID: 21300000, guid: c912cb4b1ec80e34eb21509af9d055d0, type: 3}
+  <CooldownTime>k__BackingField: 5
+  <ManaCost>k__BackingField: 10
+  <HotKey>k__BackingField: 50
+  <Damage>k__BackingField: 10
+  <Duration>k__BackingField: 3
+  <FireSphere>k__BackingField: {fileID: 3167816993282085653, guid: 9d327c655d5dc7d4fa2dc5934c8d4e6a, type: 3}
